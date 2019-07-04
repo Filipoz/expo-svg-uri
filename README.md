@@ -1,3 +1,7 @@
+# Forked notes
+
+Adapting importing style of react-native-svg library for new expo releases.
+
 # expo-svg-uri
 
 Render SVG images in Expo app from an URL or a static file
